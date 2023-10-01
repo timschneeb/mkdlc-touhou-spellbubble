@@ -9,7 +9,7 @@ firstDlcId=1
 # Title ID of the first DLC to generate
 firstDlcTitleId=0100ae7012b5f001
 # Generate x DLCs
-maxDlcs=255
+maxDlcs=100
 
 if ! command -v hacpack &> /dev/null
 then

@@ -11,7 +11,7 @@ Generate DLC unlocker NSPs for Touhou Spell Bubble from scratch.
 
 ## Usage
 
-Generate all possible DLC unlock packages from #1 up to #255.
+Generate all possible DLC unlock packages from #1 up to #100.
 ```
 ./mkdlc.sh
 ```
